@@ -1,2 +1,1 @@
-# testibus
-Used for testing
+# This repository is used for testing purposes
